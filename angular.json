@@ -24,28 +24,9 @@
                             "src/assets"
                         ],
                         "styles": [
-                            "src/styles.css",
-                            "node_modules/bootstrap/dist/css/bootstrap.min.css",
-                            "node_modules/css/sb-admin-2.min.css",
-                            "node_modules/vendor/fontawesome-free/css/all.css"
+                            "src/styles.css"
                         ],
-                        "scripts": [
-                            "node_modules/jquery/dist/jquery.slim.min.js",
-                            "node_modules/popper.js/dist/umd/popper.min.js",
-                            "node_modules/bootstrap/dist/js/bootstrap.min.js",
-                            "node_modules/js/sb-admin-2.min.js",
-                            "node_modules/vendor/bootstrap/js/bootstrap.min.js",
-                            "node_modules/vendor/bootstrap/js/bootstrap.bundle.min.js",
-                            "node_modules/vendor/jquery/jquery.min.js",
-                            "node_modules/vendor/jquery-easing/jquery.easing.min.js",
-                            "node_modules/vendor/datatables/jquery.dataTables.min.js",
-                            "node_modules/vendor/datatables/dataTables.bootstrap4.min.js",
-                            "node_modules/vendor/chart.js/Chart.min.js",
-                            "node_modules/js/demo/chart-area-demo.js",
-                            "node_modules/js/demo/chart-pie-demo.js",
-                            "node_modules/js/demo/chart-area-demo.js",
-                            "node_modules/js/demo/datatables-demo.js"
-                        ]
+                        "scripts": []
                     },
                     "configurations": {
                         "production": {
